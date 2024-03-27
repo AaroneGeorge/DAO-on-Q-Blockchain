@@ -360,7 +360,7 @@
   "MINT": "Mint",
   "MINT_TOKENS": "Mint Tokens",
   "MINTED_ALL_TOKEN": "Minted all tokens in the system",
-  "DAO_DASHBOARD": "x Metaschool",
+  "DAO_DASHBOARD": "CUSAT DAO",
   "TOKEN_URI_OPTIONAL": "Token URI (optional)",
   "TOKEN_URI_PLACEHOLDER": "Input Token URI",
   "TOKEN_URI_TOOLTIP": "The URI is used to link to the NFT metadata. This could for example be a picture of your avatar. If you do not provide an URI, your NFT still functions like before, but it will not represent any data or image.",
